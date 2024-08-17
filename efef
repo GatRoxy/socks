@@ -1,0 +1,2 @@
+const { amount, infura, arbiscanUrl, movementExplorerUrl, AMOUNT_ETH } = require('../config.json');
+const { SlashCommandBuilder } = require('@discordjs/builders');
